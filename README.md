@@ -1,5 +1,5 @@
 # bspline-interactive-demo-gte
-Interactive 2D B-spline using Geometric Tools Engine (version 3.2)
+Interactive 2D B-spline using [Geometric Tools Engine](https://www.geometrictools.com/Downloads/Downloads.html) (version 3.2)
 
 Short video of the demo here: https://www.youtube.com/watch?v=2Hx9rWYnwGU
 
